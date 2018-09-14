@@ -16,7 +16,8 @@ public class CalC {
   
 		System.out.println("Calculator Class Hello Wolrd");
 		System.out.println("Calculator Class Hello Wolrd");
-		System.out.println("Calculator Class Hello Wolrd");System.out.println("Calculator Class Hello Wolrd");
+		System.out.println("Calculator Class Hello Wolrd");
+		System.out.println("Calculator Class Hello Wolrd");
 
 	}
 
